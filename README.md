@@ -239,17 +239,17 @@ To fully complete this recreation, you would need to add the following images to
 - **Typography**: Inter font family matching original
 - **Spacing System**: Consistent padding and margins
 
-## 📊 Evaluation Criteria Addressed
+##  Evaluation Criteria Addressed
 
-✅ **Structural similarity**: All 11 sections implemented with accurate layout  
-✅ **Layout accuracy**: Two-column features, grid testimonials, footer columns  
-✅ **Spacing and alignment**: CSS Grid and Flexbox with precise gaps  
-✅ **Font matching**: Inter font family with correct weights  
-✅ **Color palette**: Dark theme with accurate hex values  
-✅ **Semantic HTML**: Proper HTML5 elements and structure  
-✅ **Visual closeness**: Dark backgrounds, subtle borders, professional styling  
+ **Structural similarity**: All 11 sections implemented with accurate layout  
+ **Layout accuracy**: Two-column features, grid testimonials, footer columns  
+ **Spacing and alignment**: CSS Grid and Flexbox with precise gaps  
+ **Font matching**: Inter font family with correct weights  
+ **Color palette**: Dark theme with accurate hex values  
+ **Semantic HTML**: Proper HTML5 elements and structure  
+ **Visual closeness**: Dark backgrounds, subtle borders, professional styling  
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates:
 - Advanced CSS Grid and Flexbox techniques
@@ -259,12 +259,10 @@ This project demonstrates:
 - Attention to detail in design recreation
 - Clean, maintainable code structure
 
-## 📸 Screenshots
+##  Screenshots
 
-To add screenshots:
-1. Take full-page screenshots of the completed site
-2. Compare with original Cursor website
-3. Add to README with comparison images
+<img width="1917" height="1002" alt="image" src="https://github.com/user-attachments/assets/ee9cb9da-c7cf-4aad-96fe-8537b4c150f6" />
+
 
 ## 🔗 Resources
 
@@ -276,13 +274,3 @@ To add screenshots:
 ## 📄 License
 
 This is an educational project created for learning purposes. All design rights belong to Cursor/Anysphere.
-
-## 🙏 Acknowledgments
-
-- Original design by Cursor team (Anysphere)
-- Inter font by Rasmus Andersson
-- Inspiration from modern developer tools
-
----
-
-**Note**: This is a static recreation focusing on visual accuracy. The original Cursor website includes animations, interactive demos, and dynamic content that are not replicated here per the project constraints (no JavaScript, no animations).
