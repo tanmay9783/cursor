@@ -1,5 +1,8 @@
 # Cursor Landing Page Recreation
 
+link to site -> 
+https://tanmay9783.github.io/cursor/
+
 A pixel-perfect recreation of the Cursor IDE landing page using only HTML and CSS. This project focuses on visual and structural accuracy to match the original design.
 
 ## 🎯 Project Overview
